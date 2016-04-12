@@ -1,2 +1,2 @@
 # Prova
-Prova inicial;
+<strong>Prova inicial</strong>
